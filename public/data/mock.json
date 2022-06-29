@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "반가워요",
+      "writer": "남산돈가스",
+      "content": "안녕하세요 남산돈가스입니다.",
+      "imgUrl" :  "https://source.unsplash.com/random/600x500"  
+    },
+    {
+      "id": 2,
+      "title": "Hello",
+      "writer": "명동섞어찌개",
+      "content": "안녕하세요 명동섞어찌개입니다.",
+      "imgUrl" : "https://source.unsplash.com/random/900x500"
+    },
+    {
+      "id": 3,
+      "title": "Good Morning!",
+      "writer": "남산돈가스",
+      "content": "좋은 아침이에요~~",
+      "imgUrl" : "https://source.unsplash.com/random/700x1080"
+    }
+  ],
+  "users": [
+    {
+      "email": "gkemzm@gmail.com",
+      "password" : "pbumsoo12!A",
+      "name": "박범수"
+    },
+    {
+      "email": "namsan@naver.com",
+      "password" : "pbumsoo12!A",
+      "name": "남산돈가스"
+    },
+    {
+      "email": "mummmmm@naver.com",
+      "password" : "pbumsoo12!A",
+      "name": "명동섞어찌개"
+    }
+  ]
+}

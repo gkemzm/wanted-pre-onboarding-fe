@@ -8,6 +8,21 @@ const GlobalStyles = createGlobalStyle`
    outline:none;
    border:none;
  }
+
+ html {
+    width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    height: 100%;
+    font-size: 62.5%;
+    margin: 0;
+    background-color: rgb(250, 250, 250);
+  }
+
+  /* p,
+  h1 {
+    margin: 0;
+  } */
 `;
 
 export default GlobalStyles;
